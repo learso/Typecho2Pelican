@@ -2,7 +2,7 @@
 
 很有意思的一个Typecho插件，主要功能是新建和编辑文章时生成符合Pelican要求的md文件。如果你有自己的vps的话，可以这个插件配合Pelican生成静态博客。
 
-## How to user
+## How to use
 
 最简单的方法是到Typecho的插件目录usr/plugins/下执行：
 ```
